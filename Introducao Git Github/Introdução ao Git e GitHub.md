@@ -66,6 +66,6 @@ O código é mantido em um servidor e pode ser baixado localmente em diversas m�
 
 <br>
 
-### **Github é um repositório remoto onde guardamos nosso códio, esse código pode ser público, onde qualquer pessoa tem acesso ou privado.**
+### **Github é um repositório remoto onde guardamos nosso código, esse código pode ser público, onde qualquer pessoa tem acesso ou privado.**
 
 
